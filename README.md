@@ -11,7 +11,7 @@ Este proyecto es una aplicación desarrollada con **React** y **Vite** que prese
 
 ## Capturas de pantalla
 
-![MARVEL](./PUBLIC/MARVEL.AVIF)
+![MARVEL](public/marvel.avif)
 
 ---
 
@@ -39,7 +39,7 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd marvel-hover-effect
+   cd marvel
    ```
 
 3. Instala las dependencias:
@@ -64,8 +64,8 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
 
 Puedes agregar más imágenes o modificar los efectos editando los archivos CSS y los componentes React. Los archivos principales son:
 
-- `src/components/ImageGallery.jsx`: Contiene la lógica y la estructura de la galería de imágenes.
-- `src/styles/App.css`: Contiene los estilos principales para los efectos de hover.
+- `src/App.jsx`: Contiene la lógica y la estructura de la galería de imágenes.
+- `src/index.css`: Contiene los estilos principales para los efectos de hover.
 
 ## Contribuciones
 
@@ -86,11 +86,6 @@ Puedes agregar más imágenes o modificar los efectos editando los archivos CSS 
    ```
 5. Abre un pull request en GitHub.
 
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
----
 
 ## Contacto
 
